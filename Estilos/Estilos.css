@@ -39,8 +39,7 @@ nav ul li:hover {
     background: #ff00004d;
 }
 .cool-btn{
-    background-color: transparent;
-    color: rgb(255, 255, 255);
+    background-color:  rgb(245, 109, 109);
     padding: .4rem 1rem;
     border: 1px solid #fff;
     font-size: 1.5rem;
